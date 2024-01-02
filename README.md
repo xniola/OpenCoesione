@@ -1,4 +1,4 @@
 # OpenCoesione
-L'attività svolta riguarda l'analisi dei progetti di ricerca, sviluppo e innovazione realizzati dalle imprese italiane e sostenute con i contributi dei fondi di coesione della UE. Le informazioni relative a tali progetti sono desunte dalla banca dati Opencoesione. 
+The work carried out concerns the analysis of research, development and innovation projects carried out by Italian companies and supported with contributions from EU cohesion funds. Information on these projects is taken from the Opencoesione database. 
 
-Si legga il file **Relazione_org_imp.pdf** per maggiori informazioni.
+Read the file **Report_org_imp.pdf** for more information.
